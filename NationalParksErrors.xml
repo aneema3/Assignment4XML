@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/aneema3/Assignment4XML/main/NationalParks.xsd">
-
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
 		<Phone>928-638-7496</Phone>
@@ -15,7 +14,6 @@
 			<Zip>86023</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.8">
 		<Name>Yellowstone</Name>
 		<Address NearestAirport="Bozeman Yellowstone International Airport">
@@ -26,7 +24,6 @@
 			<Zip>82190</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark>
 		<Name>Yosemite</Name>
 		<Name>Yosemite Duplicate</Name>
@@ -39,7 +36,6 @@
 			<Zip>95389</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.7">
 		<Name>Zion</Name>
 		<Phone>435-772-3256</Phone>
@@ -50,5 +46,4 @@
 			<State>UT</State>
 			<Zip>84767</Zip>
 	</NationalPark>
-
 </NationalPark>
